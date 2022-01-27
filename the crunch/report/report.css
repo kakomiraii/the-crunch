@@ -1,0 +1,32 @@
+header {
+  font-size: 40px;
+}
+
+h1 {
+  color: brown;
+  font-size: 35px;
+}
+
+li {
+  font-size: 30px;
+}
+
+p {
+  font-size: 30px;
+}
+
+p2 {
+  font-size: 20px;
+  font-style: bold;
+}
+
+img {
+  height: 500px;
+  width: 700px;
+  padding-left: 50px;
+}
+
+.sitemap img {
+  width: 85%;
+  height: 900px;
+}
